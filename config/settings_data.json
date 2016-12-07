@@ -1,0 +1,27 @@
+{
+  "current": "Default",
+  "presets": {
+    "Default": {
+      "site_tagline": "locally designed products from",
+      "site_tagline_small": "St. Pete, FL",
+      "ajax_cart_method": "drawer",
+      "cart_notes_enable": true,
+      "color_body_bg": "#eee",
+      "color_body_text": "#3c373e",
+      "color_borders": "#e5e5e5",
+      "color_hero_bg": "#554f58",
+      "image_hero_bg": "/assets/hero.jpg",
+      "color_footer_bg": "#554f58",
+      "color_footer_social_link": "#a096a5",
+      "color_footer_text": "#817886",
+      "color_primary": "#d68420",
+      "color_secondary": "#fece70",
+      "favicon_enable": true,
+      "footer_newsletter_enable": true,
+      "footer_social_enable": true,
+      "logo_use_image": true,
+      "social_facebook_link": "https://www.facebook.com/burgercreative/",
+      "social_twitter_link": "https://twitter.com/burgercreative"
+    }
+  }
+}
